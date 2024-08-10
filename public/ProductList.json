@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Acer Predator",
+    "imageSrc": "/src/assets/images/gadgets/Acerpredator.png",
+    "description": "A powerful gaming laptop with top-notch graphics and performance, perfect for intense gaming sessions.",
+    "price": "$1,499"
+  },
+  {
+    "id": 2,
+    "name": "Alienware M15",
+    "imageSrc": "/src/assets/images/gadgets/AlienwareM15.png",
+    "description": "Sleek and high-performance, designed for gamers who crave mobility without sacrificing power.",
+    "price": "$1,799"
+  },
+  {
+    "id": 3,
+    "name": "Dell Latitude",
+    "imageSrc": "/src/assets/images/gadgets/Dell Latitude.png",
+    "description": "A business-oriented laptop, known for its durability, security features, and efficient performance.",
+    "price": "$1,299"
+  },
+  {
+    "id": 4,
+    "name": "Dell Inspiron",
+    "imageSrc": "/src/assets/images/gadgets/Dellinspiron.png",
+    "description": "A versatile laptop suitable for everyday tasks, offering a balance of performance and affordability.",
+    "price": "$899"
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS",
+    "imageSrc": "/src/assets/images/gadgets/DellXPS.png",
+    "description": "Premium design and cutting-edge technology make this laptop ideal for professionals and creatives.",
+    "price": "$1,699"
+  },
+  {
+    "id": 6,
+    "name": "Diesel Mega Chief Gunmetal Watch",
+    "imageSrc": "/src/assets/images/gadgets/diesel.png",
+    "description": "A robust and stylish smartwatch that combines fashion with functionality.",
+    "price": "$349"
+  },
+  {
+    "id": 7,
+    "name": "Furlan",
+    "imageSrc": "/src/assets/images/gadgets/Furlan.png",
+    "description": "A high-end timepiece with a classic design, perfect for the modern professional.",
+    "price": "$499"
+  },
+  {
+    "id": 8,
+    "name": "HP Envy",
+    "imageSrc": "/src/assets/images/gadgets/hp_envy.jpg",
+    "description": "A stylish and powerful laptop, ideal for both work and entertainment.",
+    "price": "$1,299"
+  },
+  {
+    "id": 9,
+    "name": "Huawei P30",
+    "imageSrc": "/src/assets/images/gadgets/Huawei p30.png",
+    "description": "A smartphone with a powerful camera, sleek design, and impressive performance.",
+    "price": "$699"
+  },
+  {
+    "id": 10,
+    "name": "Indestructible Smartwatch",
+    "imageSrc": "/src/assets/images/gadgets/indestructible.png",
+    "description": "Engineered for extreme conditions, this smartwatch offers unmatched durability and style. Perfect for those who push limits and demand resilience.",
+    "price": "$399"
+  },
+  {
+    "id": 11,
+    "name": "Lenovo ThinkPad",
+    "imageSrc": "/src/assets/images/gadgets/LenovoThinkpad.png",
+    "description": "A business laptop known for its reliability, exceptional keyboard, and long battery life.",
+    "price": "$1,199"
+  },
+  {
+    "id": 12,
+    "name": "Mini Lapel Mic",
+    "imageSrc": "/src/assets/images/gadgets/minilapel.png",
+    "description": "Compact and easy-to-use, perfect for recording high-quality audio on the go.",
+    "price": "$79"
+  },
+  {
+    "id": 13,
+    "name": "Omega",
+    "imageSrc": "/src/assets/images/gadgets/omega.png",
+    "description": "A luxurious watch combining precision with timeless elegance.",
+    "price": "$4,500"
+  },
+  {
+    "id": 14,
+    "name": "Podcast Mic",
+    "imageSrc": "/src/assets/images/gadgets/podcast.png",
+    "description": "A professional-grade microphone designed for clear and crisp audio recordings.",
+    "price": "$149"
+  },
+  {
+    "id": 15,
+    "name": "Samsung Galaxy",
+    "imageSrc": "/src/assets/images/gadgets/samsungGalaxy.png",
+    "description": "A feature-packed smartphone with cutting-edge technology and a stunning display.",
+    "price": "$1,099"
+  },
+  {
+    "id": 16,
+    "name": "Smartboard",
+    "imageSrc": "/src/assets/images/gadgets/smartboard.png",
+    "description": "An interactive display tool, perfect for classrooms and collaborative workspaces.",
+    "price": "$2,499"
+  },
+  {
+    "id": 17,
+    "name": "Spark 20",
+    "imageSrc": "/src/assets/images/gadgets/spark_20.webp",
+    "description": "A budget-friendly smartphone offering essential features and a user-friendly experience.",
+    "price": "$299"
+  },
+  {
+    "id": 18,
+    "name": "Webcam",
+    "imageSrc": "/src/assets/images/gadgets/webcam.png",
+    "description": "High-definition webcam ideal for video conferencing and streaming.",
+    "price": "$89"
+  },
+  {
+    "id": 19,
+    "name": "Wireless Earbuds",
+    "imageSrc": "/src/assets/images/gadgets/wireless-earbuds.png",
+    "description": "Compact and comfortable, offering high-quality sound with the convenience of wireless technology.",
+    "price": "$129"
+  },
+  {
+    "id": 20,
+    "name": "Sony Cam",
+    "imageSrc": "/src/assets/images/gadgets/sonycam.png",
+    "description": "A versatile digital camera with advanced features for photography enthusiasts.",
+    "price": "$699"
+  },
+  {
+    "id": 21,
+    "name": "Apple MacBook Pro (M2)",
+    "imageSrc": "/src/assets/images/gadgets/macbook.png",
+    "description": "Power through any task with the sleek Apple MacBook Pro (M2). Its stunning display and blazing-fast performance make it the ultimate tool for professionals on the move.",
+    "price": "$2,499"
+  },
+  {
+    "id": 22,
+    "name": "Samsung Galaxy Tab S8 Ultra",
+    "imageSrc": "/src/assets/images/gadgets/s-galaxy-ultra.png",
+    "description": "Unleash creativity with the Galaxy Tab S8 Ultra's massive 14.6-inch screen and included S Pen. Perfect for multitasking, design, and entertainment.",
+    "price": "$1,099"
+  },
+  {
+    "id": 23,
+    "name": "Sony WH-1000XM4 Headphones",
+    "imageSrc": "/src/assets/images/gadgets/sony.png",
+    "description": "Dive into your favorite tunes with the Sony WH-1000XM4. These headphones offer top-notch noise cancellation and crystal-clear sound for an unbeatable listening experience.",
+    "price": "$349"
+  },
+  {
+    "id": 24,
+    "name": "Microsoft Surface Pro 9",
+    "imageSrc": "/src/assets/images/gadgets/surfacepro.png",
+    "description": "Transform your workday with the versatile Surface Pro 9. Its high-resolution display and detachable keyboard make it a powerhouse for productivity and creativity.",
+    "price": "$1,299"
+  },
+  {
+    "id": 25,
+    "name": "GoPro HERO11 Black",
+    "imageSrc": "/src/assets/images/gadgets/gopro.png",
+    "description": "Capture every adventure in stunning detail with the GoPro HERO11 Black. This rugged, waterproof camera is built for extreme environments and unforgettable moments.",
+    "price": "$399"
+  },
+  {
+    "id": 26,
+    "name": "Oculus Quest 2 VR Headset",
+    "imageSrc": "/src/assets/images/gadgets/quest2.png",
+    "description": "Step into virtual worlds with the Oculus Quest 2. Its high-resolution display and standalone design offer immersive gaming and exploration without the need for a PC.",
+    "price": "$299"
+  },
+  {
+    "id": 27,
+    "name": "Bose QuietComfort 45",
+    "imageSrc": "/src/assets/images/gadgets/bose.png",
+    "description": "Experience ultimate tranquility with the Bose QuietComfort 45. Superior noise cancellation and exceptional sound quality make these headphones perfect for any journey.",
+    "price": "$329"
+  },
+  {
+    "id": 28,
+    "name": "Apple Watch Series 8",
+    "imageSrc": "/src/assets/images/gadgets/apple-series8.png",
+    "description": "Stay ahead of your health and style with the Apple Watch Series 8. Advanced tracking features and a sleek design ensure you’re always connected and on top of your game.",
+    "price": "$749"
+  },
+  {
+    "id": 29,
+    "name": "Dell UltraSharp U2720Q Monitor",
+    "imageSrc": "/src/assets/images/gadgets/dell-ultra.png",
+    "description": "See every detail with the Dell UltraSharp U2720Q. This 27-inch 4K monitor offers stunning clarity and color accuracy, ideal for professional work and entertainment.",
+    "price": "$699"
+  },
+  {
+    "id": 30,
+    "name": "Anker PowerCore 26800 Portable Charger",
+    "imageSrc": "/src/assets/images/gadgets/anker.png",
+    "description": "Keep your devices charged on the go with the Anker PowerCore 26800. Its massive battery and multiple ports ensure you never run out of power during long trips.",
+    "price": "$79"
+  }
+]

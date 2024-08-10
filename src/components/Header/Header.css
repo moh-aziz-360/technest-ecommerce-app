@@ -1,0 +1,29 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
+  background-color: #0b0d13;
+  z-index: 1000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-right: 20px;
+}
+
+.logo img {
+  height: 100px;
+  width: 100%;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 0 0 4px #be5b5b;
+  position: relative;
+  top: 28px;
+}

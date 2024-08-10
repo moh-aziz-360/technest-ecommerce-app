@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  position: absolute;
+  top: 0;
+}
+
+.navbar ul {
+  display: flex;
+  margin-top: 18px;
+  margin-left: 20rem;
+  list-style-type: none;
+  padding: 0;
+  gap: 90px;
+}
+
+.navbar li a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 70px;
+  color: #d4cdce;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  cursor: pointer;
+  text-decoration: underline dodgerblue;
+}

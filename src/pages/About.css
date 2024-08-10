@@ -1,0 +1,21 @@
+.about {
+  background-color: rgb(199, 195, 190);
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  color: #4cc6ca;
+  border-bottom: 2px solid #4cc6ca;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.intro {
+  margin: 0;
+  font-size: 1.3rem;
+  font-family: "Century Gothic";
+  color: #333;
+  line-height: 1.2;
+  text-align: center;
+}
