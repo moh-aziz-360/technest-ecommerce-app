@@ -4,7 +4,11 @@ import "./About.css";
 const About = () => {
   return (
     <>
-      <img className="logo" src="/public/images/technest.png" alt="logo" />
+      <img
+        className="about-logo"
+        src="/public/images/technest.png"
+        alt="logo"
+      />
       <div className="about">
         <h2>About Us</h2>
         <p className="intro">
