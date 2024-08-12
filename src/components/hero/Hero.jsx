@@ -2,11 +2,11 @@ import React, { useState, useEffect } from "react";
 import "./Hero.css";
 
 const images = [
-  "/public/images/hero.png",
-  "/public/images/hero2.png",
-  "/public/images/hero5.png",
-  "/public/images/hero3.png",
-  "/public/images/hero4.png",
+  "/images/hero.png",
+  "/images/hero2.png",
+  "/images/hero5.png",
+  "/images/hero3.png",
+  "/images/hero4.png",
 ];
 
 const Hero = () => {

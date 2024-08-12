@@ -13,7 +13,7 @@ const About = () => {
         {" "}
         <img
           className="about-logo"
-          src="/public/images/technest-logo.png"
+          src="/images/technest-logo.png"
           alt="logo"
         />
       </Link>

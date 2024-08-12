@@ -13,8 +13,8 @@ const Footer = () => {
             <Link to="/">BACK TO HOME</Link>
           </div>
           <div className="app-download">
-            <img className="play" src="/public/images/play_store.png" alt="" />
-            <img className="store" src="/public/images/app_store.png" alt="" />
+            <img className="play" src="/images/play_store.png" alt="" />
+            <img className="store" src="/images/app_store.png" alt="" />
           </div>
         </div>
         <div className="footer-right">
