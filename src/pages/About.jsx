@@ -1,22 +1,30 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./About.css";
+import { Link } from "react-router-dom";
 
 const About = () => {
+  useEffect(() => {
+    // Scroll to the top of the page when the component is mounted
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <>
-      <img
-        className="about-logo"
-        src="/public/images/technest.png"
-        alt="logo"
-      />
+      <Link to="/" style={{ textDecoration: "", color: "inherit" }}>
+        {" "}
+        <img
+          className="about-logo"
+          src="/public/images/technest-logo.png"
+          alt="logo"
+        />
+      </Link>
       <div className="about">
         <h2>About Us</h2>
         <p className="intro">
           TechNest is the ultimate online marketplace for cutting-edge
           technology and innovative gadgets. We bring you a curated selection of
           the latest tech products that cater to both enthusiasts and everyday
-          users alike. From high-performance electronics to essential
-          accessories, <br />
+          users alike.
+          <br /> From high-performance electronics to essential accessories,
           TechNest has everything you need to stay connected and ahead of the
           curve in the tech world.
         </p>

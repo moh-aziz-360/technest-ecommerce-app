@@ -6,7 +6,7 @@
   display: flex;
   align-items: center;
   padding: 0 20px;
-  height: 60px;
+  height: 80px;
   background-color: #0b0d13;
   z-index: 1000;
 }
@@ -15,15 +15,11 @@
   display: flex;
   align-items: center;
   position: relative;
-  margin-right: 20px;
 }
 
 .logo img {
-  height: 100px;
-  width: 100%;
-  border-radius: 50%;
-  background-color: #fff;
-  box-shadow: 0 0 0 4px orange;
-  position: relative;
-  top: 28px;
+  height: auto;
+  width: 60%;
+  margin-top: 12px;
+  margin-bottom: 12px;
 }

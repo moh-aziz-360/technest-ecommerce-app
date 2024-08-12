@@ -1,6 +1,6 @@
 .footer {
   border-top: 7px solid #052b64;
-  background-color: #0b0d13;
+  background-color: #171f2e;
   color: #e0e0e0;
   width: 100%;
   padding: 40px 20px;
@@ -47,6 +47,10 @@
   text-align: start;
 }
 
+.footer-right p {
+  text-align: center;
+}
+
 .footer-left .app-download {
   bottom: 20vh;
   display: flex;
@@ -71,8 +75,10 @@
 .footer-left a,
 .footer-right a {
   color: #4cc6ca;
+  font-family: "Arial";
+  font-weight: 510;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .footer-left a {
@@ -108,4 +114,8 @@
 .footer-credit p {
   font-size: 18px;
   max-width: 100%;
+}
+
+.links {
+  text-align: center;
 }

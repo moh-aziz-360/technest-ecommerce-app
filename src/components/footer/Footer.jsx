@@ -7,8 +7,11 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-left">
-          <Link to="/about">ABOUT</Link>
-          <Link to="/">BACK TO HOME</Link>
+          <div className="links">
+            {" "}
+            <Link to="/about">ABOUT</Link>
+            <Link to="/">BACK TO HOME</Link>
+          </div>
           <div className="app-download">
             <img className="play" src="/public/images/play_store.png" alt="" />
             <img className="store" src="/public/images/app_store.png" alt="" />
